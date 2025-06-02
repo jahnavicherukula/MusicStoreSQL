@@ -68,4 +68,14 @@ Key business questions answered using SQL:
 ---
 
 
+## 📊 Sample Insights
+
+- Rock music dominates several countries' listening habits.
+- Certain cities are hotspots for high invoice totals.
+- A few elite customers account for a large portion of total sales.
+- Artist-specific customer behavior patterns emerge from purchase data.
+
+---
+
+
 
